@@ -56,21 +56,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark"/>
 </p>
 
----
-
-## 🎥 YouTube Channel
-📺 I create programming tutorials, project walkthroughs, and fun dev content  
-👉 **Add your channel link here**
-
----
-
-## 📫 Connect With Me
-- 💼 LinkedIn: Add link
-- 🐦 Twitter: Add link
-- 📧 Email: Add email
-- 📺 YouTube: Add channel
-
----
 
 ## ⚡ Fun Fact
 I enjoy building **big complex desktop systems** with many interconnected forms — the harder the project, the more fun it is 😄
